@@ -1,7 +1,12 @@
 # Hi, guys. i'm Lev :cat:
 ### Student Hillel IT School, I am from Kramatorsk. 
-### Homework №4 
-### The most simple program. In a Docker container using Faker random data generation. Displays a random person and his data such as: Name , id , Address, Latitude, Longitude
+### Homework №5 
+### The code does the following:
+1.Create a txt file, write fake text into it and read it;
+2.Generates usernames with e-mail and writes to a file (the number of generated users is set by a parameter;
+3.Data parsing (json) counts and displays the number of astronauts in space at the current moment;
+4.Downloads the csv file, makes a calculation (average height, weight, people of their file) and displays the result.
+
 ### :rocket:Run Homework
 ````
 make homework-i-run
